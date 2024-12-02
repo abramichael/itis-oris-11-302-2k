@@ -1,0 +1,65 @@
+html{
+    scroll-padding-top: 90px;
+}
+
+body {
+	font-family: Segoe UI, Georgia;
+	padding-top: 70px;
+}
+
+h1 {
+	color: #555555;
+}	
+
+h2 {
+	color: #555555;
+	font-size: 20pt;
+	margin-top: 40px;
+}
+
+.advantages {
+	text-decoration: underline;
+}
+
+.photos {
+	background-color: #555555;
+}
+
+.photos img {
+	-webkit-filter: grayscale(100%);
+	margin: 10px 20px 10px 20px;
+}
+
+.photos img:hover {
+	margin: 10px 20px 5px 20px;
+	-webkit-filter: grayscale(0%);
+}
+
+.contact {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+fieldset {
+	border: 0;
+}
+
+.feedback {
+	margin-left: 20px;
+}
+
+.navbar-brand {
+	color: #ffffff;
+}
+
+.nav-link {
+	color: #aaaaaa;
+}
+
